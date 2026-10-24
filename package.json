@@ -1,0 +1,21 @@
+{
+  "name": "codex-magic-launcher",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "repository": {"type":"git","url":"https://github.com/whx666hhh/CodexMagicLauncher.git"},
+  "description": "A reversible native Codex and Dream Skin launcher with editable magic effects.",
+  "main": "src/desktop/main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --reuse-only",
+    "build": "powershell -NoProfile -ExecutionPolicy Bypass -File build-desktop.ps1",
+    "test": "node --test tests/*.test.cjs"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "devDependencies": {
+    "electron": "44.7.2"
+  }
+}
