@@ -1,0 +1,19 @@
+{
+  "files": [
+    ".gitignore", ".gitattributes", "LICENSE", "README.md", "QA.md", "CHANGELOG.md", "THIRD_PARTY_NOTICES.md",
+    "package.json", "package-lock.json", "build-desktop.ps1", "test-desktop.ps1", "build-release.ps1", "install-desktop-shortcut.ps1",
+    "src/backend.ps1", "src/skin-process.ps1", "src/ready-ui.mjs",
+    "src/desktop/main.cjs", "src/desktop/preload.cjs", "src/desktop/adaptive-clock.cjs", "src/desktop/clock.cjs", "src/desktop/stroke-batch.cjs",
+    "src/native/Native.cs", "src/native/Bridge.cs", "src/native/DesktopEntry.cs",
+    "scripts/build-native-aurora-v4.cjs", "scripts/native-render-performance.cjs", "scripts/native-forming-performance.cjs", "scripts/native-visual-refinements.cjs", "scripts/bake-native-relic-atlases.cjs", "scripts/release-files.json",
+    "tests/adaptive-clock.test.cjs", "tests/clock.test.cjs", "tests/native.test.cjs", "tests/startup-cover.test.cjs", "tests/stroke-batch.test.cjs", "tests/WindowSelection.cs", "tests/skin-process.test.ps1", "tests/desktop-feedback.test.ps1",
+    "animation/native-forming-ring.js", "animation/v12-native-adapter.js", "animation/assets/galaxy-field.webp", "animation/assets/fonts/PinyonScript-OFL.txt",
+    "animation/assets/relic-atlases/README.md", "animation/assets/relic-atlases/manifest.json",
+    "animation/assets/relic-atlases/relic-0-0.png", "animation/assets/relic-atlases/relic-0-1.png", "animation/assets/relic-atlases/relic-1-0.png", "animation/assets/relic-atlases/relic-2-0.png", "animation/assets/relic-atlases/relic-3-0.png", "animation/assets/relic-atlases/relic-3-1.png", "animation/assets/relic-atlases/relic-4-0.png", "animation/assets/relic-atlases/relic-5-0.png",
+    "animation/accepted-aurora-v4/index.html", "animation/accepted-aurora-v4/renderer.js", "animation/accepted-aurora-v4/atmosphere.js", "animation/accepted-aurora-v4/aurora-volume.js", "animation/accepted-aurora-v4/texture.js", "animation/accepted-aurora-v4/legacy.js", "animation/accepted-aurora-v4/ring-cache.js", "animation/accepted-aurora-v4/native-adapter.js", "animation/accepted-aurora-v4/gsap.min.js", "animation/accepted-aurora-v4/source-manifest.json", "animation/accepted-aurora-v4/assets/galaxy-field.webp",
+    "animation/accepted-aurora-v4/assets/relic-atlases/README.md", "animation/accepted-aurora-v4/assets/relic-atlases/manifest.json",
+    "animation/accepted-aurora-v4/assets/relic-atlases/relic-0-0.png", "animation/accepted-aurora-v4/assets/relic-atlases/relic-0-1.png", "animation/accepted-aurora-v4/assets/relic-atlases/relic-1-0.png", "animation/accepted-aurora-v4/assets/relic-atlases/relic-2-0.png", "animation/accepted-aurora-v4/assets/relic-atlases/relic-3-0.png", "animation/accepted-aurora-v4/assets/relic-atlases/relic-3-1.png", "animation/accepted-aurora-v4/assets/relic-atlases/relic-4-0.png", "animation/accepted-aurora-v4/assets/relic-atlases/relic-5-0.png",
+    "design-drafts/aurora-universe-g-v4/index.html", "design-drafts/aurora-universe-g-v4/renderer.js", "design-drafts/aurora-universe-g-v4/atmosphere.js", "design-drafts/aurora-universe-g-v4/aurora-volume.js", "design-drafts/aurora-universe-g-v4/assets/gsap.min.js",
+    "docs/preview.png"
+  ]
+}
