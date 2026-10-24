@@ -1,0 +1,47 @@
+{
+  "source": "design-drafts/aurora-universe-g-v4/renderer.js",
+  "sourceSha256": "d16a0ff3f9af2ed57117c43bd98f41a48e94bb430c1d5bd7a81d7096f0c607df",
+  "frames": 120,
+  "columns": 12,
+  "tileSize": 216,
+  "unit": 1,
+  "fullyEtched": true,
+  "energies": [
+    0,
+    1
+  ],
+  "files": [
+    {
+      "name": "relic-0-0.png",
+      "sha256": "2e9a3d0defb790d04dcd214d36024ca5cc6b5ff7feb6b059ac100a1647333994"
+    },
+    {
+      "name": "relic-0-1.png",
+      "sha256": "310d4a8c27364e7a40d155a38f41926ef7e017ed504d11c9f00bc769a3a2e73b"
+    },
+    {
+      "name": "relic-1-0.png",
+      "sha256": "82e4874469fff286bf3a357ab9c6381dfe2d87e6326638699f75aa6a949bbfb7"
+    },
+    {
+      "name": "relic-2-0.png",
+      "sha256": "6097380c0b20cd581c71b621198fa7d18c141070a6ca055dedb02f2ba616c848"
+    },
+    {
+      "name": "relic-3-0.png",
+      "sha256": "8a0e28019aa05f62aeb212a3acd1b739343169a18f20501799fbad5d93087880"
+    },
+    {
+      "name": "relic-3-1.png",
+      "sha256": "ee3822d36bf64cb8a87a673a088e83523967dbb4d6ded2ff1774c6a0e365bea8"
+    },
+    {
+      "name": "relic-4-0.png",
+      "sha256": "7dcc7112c03bd348d74a1a09153bce1753c6a14cc80b11b45870b4b9546fad57"
+    },
+    {
+      "name": "relic-5-0.png",
+      "sha256": "4a8fab190dc8701c541b5679e6fe4e0bee85c46d3dbe79ec4995d6c465749656"
+    }
+  ]
+}
