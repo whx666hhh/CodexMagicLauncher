@@ -1,0 +1,26 @@
+{
+  "visualSource": "b2f2361 / aurora-universe-g-v4",
+  "visualAcceptance": "2026-10-20 user 可以，就按这个做吧",
+  "originalRendererSha256": "d16a0ff3f9af2ed57117c43bd98f41a48e94bb430c1d5bd7a81d7096f0c607df",
+  "nativeRendererSha256": "776641f2fb5168eeee28fb504a8702f13f9f8c38ef385b7537a70118602ab87c",
+  "realReadiness": true,
+  "realIconRectangles": true,
+  "realIconPixelsRead": false,
+  "syntheticContent": false,
+  "wallClockDurationFixed": false,
+  "nativeRevision": {
+    "date": "2026-10-20",
+    "requested": "continuous waiting motion, floating larger detailed relics",
+    "visualReviewPending": true
+  },
+  "changes": [
+    "native viewport",
+    "host motion clock",
+    "host content reveal",
+    "current client geometry",
+    "continuous ambient galaxy and aurora",
+    "floating shared relic/feed centers",
+    "relic scale +27% and surface etching",
+    "reduced motion"
+  ]
+}
